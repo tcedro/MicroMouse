@@ -1,4 +1,4 @@
-# Micromouse: A Corrida dos Queijos
+# Micromouse
 
 Em Micromouse, você assume o controle de um rato ágil e astuto que se vê em um labirinto repleto de desafios. Inspirado nos clássicos jogos de labirinto como Pac-Man, este jogo coloca você em uma emocionante corrida contra o tempo e os perigos.
 
@@ -24,6 +24,8 @@ Seu objetivo é simples: coletar todos os queijos espalhados pelo labirinto ante
 <div ><br>
           <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" /> Unity <br><br>
           <img align="center" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" /> C-Sharp <br><br>
+          <img align="center" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" /> Discord <br><br>
+          <img align="center" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" /> Photoshop <br><br>
           
 </div>  
-## Metodologia
+## Metodologia:
