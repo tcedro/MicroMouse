@@ -23,7 +23,7 @@ Seu objetivo é simples: coletar todos os queijos espalhados pelo labirinto ante
 ## Tecnologias:
 <div ><br>
           <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" /> Unity <br><br>
-          <img align="center" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" /> Flutter <br><br>
+          <img align="center" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" /> C-Sharp <br><br>
           
 </div>  
 ## Metodologia
