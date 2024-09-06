@@ -2,7 +2,8 @@
 
 Em Micromouse, você assume o controle de um rato ágil e astuto que se vê em um labirinto repleto de desafios. Inspirado nos clássicos jogos de labirinto como Pac-Man, este jogo coloca você em uma emocionante corrida contra o tempo e os perigos.
 
-## História: Seu objetivo é simples: coletar todos os queijos espalhados pelo labirinto antes que o gato possa pegá-lo. O labirinto é um emaranhado de corredores e túneis, onde cada esquina pode esconder um prêmio delicioso ou um perigo iminente.
+## História: 
+Seu objetivo é simples: coletar todos os queijos espalhados pelo labirinto antes que o gato possa pegá-lo. O labirinto é um emaranhado de corredores e túneis, onde cada esquina pode esconder um prêmio delicioso ou um perigo iminente.
 
 ## Jogabilidade:
 
